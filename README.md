@@ -64,3 +64,8 @@ json response: {"CATEGORY":"000000","COUNT":0,"SESSION_ID":"u10003"}
    
    http://127.0.0.1:5000/predict/u25000
    
+6. remove
+
+   ```
+   conda env remove -n gender_project
+   ```
